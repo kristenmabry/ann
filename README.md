@@ -1,8 +1,8 @@
 # Artificial Neural Network
 
 - Trains an ANN for ten letters using 8 moment values
-- Contains training data of 100 rows, evaluation set 1 with 20 rows, evaluation set 2 with 100 rows
-- Contains variables for learning rate, bias, momentum, # of hidden nodes, and train by epoch or pattern, activation function, 
+- Contains training data of 100 rows, evaluation set 1 with 200 rows, evaluation set 2 with 100 rows
+- Contains variables for learning rate, bias, momentum, # of hidden nodes, and train by epoch or pattern, activation function
 
 Files
 - project3.py: loads and normalizes data, trains ANN for different cases, classifies evaluation data, creates confusion matrices, saves results
